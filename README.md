@@ -1,2 +1,8 @@
-# notes-solidity
-Notes on Ethereum &amp; Solidity
+# Ethereum
+> Notes on Ethereum &amp; Solidity
+
+## History
+
+## EVM
+
+## Consensus
